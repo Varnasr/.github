@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: OpenStacks Discussions
+    url: https://github.com/Varnasr/OpenStacks-for-Change/discussions
+    about: Ask questions, share ideas, or start a conversation about the ecosystem.
+  - name: Research Rundown Newsletter
+    url: https://researchrundown.substack.com
+    about: Stay current with development research tools and methods.
