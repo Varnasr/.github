@@ -29,4 +29,4 @@ InsightStack, FieldStack, EquityStack, SignalStack, RootStack, BridgeStack, View
 
 ---
 
-Part of [OpenStacks for Change](https://openstacks.dev). Created by [Varna Sri Raman](https://on-web.link/varna).
+Part of [OpenStacks for Change](https://openstacks.dev). Created by [Varna Sri Raman](https://idealog.works).

@@ -26,7 +26,7 @@ This Code of Conduct applies to all OpenStacks repositories, discussions, issues
 
 ## Reporting
 
-If you experience or witness behaviour that violates this Code of Conduct, please contact [Varna Sri Raman](https://on-web.link/varna) directly. All reports will be reviewed and handled confidentially.
+If you experience or witness behaviour that violates this Code of Conduct, please contact [Varna Sri Raman](https://idealog.works) directly. All reports will be reviewed and handled confidentially.
 
 ## Enforcement
 
