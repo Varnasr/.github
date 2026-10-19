@@ -32,4 +32,4 @@ Development practitioners, evaluators, researchers, and data analysts working ac
 
 ---
 
-Created by [Dr. Varna Sri Raman](https://on-web.link/varna) -- development economist and social researcher.
+Created by [Dr. Varna Sri Raman](https://idealog.works) -- development economist and social researcher.

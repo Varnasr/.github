@@ -4,7 +4,7 @@
 
 If you discover a security vulnerability in any OpenStacks repository, please report it responsibly.
 
-**Do not open a public issue.** Instead, contact [Varna Sri Raman](https://on-web.link/varna) directly with:
+**Do not open a public issue.** Instead, email **care@pinpointventures.in** with:
 
 1. The repository and file(s) affected
 2. A description of the vulnerability

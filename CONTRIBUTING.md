@@ -73,4 +73,4 @@ Look for issues labelled `good first issue` or `help wanted`. Or open a discussi
 
 ---
 
-Part of [OpenStacks for Change](https://openstacks.dev). Created by [Varna Sri Raman](https://on-web.link/varna).
+Part of [OpenStacks for Change](https://openstacks.dev). Created by [Varna Sri Raman](https://idealog.works).
